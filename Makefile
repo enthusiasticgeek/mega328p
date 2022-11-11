@@ -1,5 +1,5 @@
 MCU=atmega328p
-F_CPU=1200000
+F_CPU=16000000UL
 CC=avr-gcc
 file=1
 OBJCOPY=avr-objcopy
